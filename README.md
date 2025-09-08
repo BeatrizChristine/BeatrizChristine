@@ -1,36 +1,48 @@
-# 👋 Olá — eu sou a Beatriz Christine
-**Estudante de Engenharia da Computação (UFAM) • Desenvolvedora Full-Stack iniciante • Mobile & Web**
+# 👋 Olá! Eu sou a Beatriz Christine  
+**Estudante de Engenharia da Computação (UFAM) • Técnica em Programação de Jogos Digitais (IFAM) • Desenvolvedora Full-Stack em formação**
 
-✨ Trabalho com desenvolvimento Android (Java, XML), aplicações Web (HTML/CSS/JS, React) e sistemas Full-Stack com MySQL / Firebase.  
-🏆 1º lugar – Melhor Pitch (Programa AI) — Samsung Ocean (2023).  
-🤖 Líder em projetos de robótica (First Lego League).  
-🎯 Buscando estágio em Desenvolvimento (mobile / web / back-end).
+💡 Apaixonada por tecnologia, inovação e desenvolvimento de soluções digitais. Tenho experiência em **projetos Android, Web e sistemas Full-Stack**, além de participação em iniciação científica, extensão e competições de robótica.  
+
+🏆 **Conquistas e destaques:**  
+- 1º lugar — *Melhor Pitch* (Programa AI) — Samsung Ocean (2023)*
+- Apresentações em eventos acadêmicos e tecnológicos — PIBIC, PIBEX, INOVATECH (2021 - 2023)
+- Líder em projetos de robótica — *First Lego League (2020–2022)*  
+- Algumas palestras e apresentações ministradas em eventos de tecnologia - IFAM (2020 - 2022)
+
+🎯 Atualmente, busco oportunidades de **estágio em Desenvolvimento (Mobile, Web ou Back-End)** para aplicar e expandir minhas habilidades em programação, engenharia de software e resolução de problemas.  
 
 ---
 
 ## 🔭 Projetos em destaque
-- **Programa AI** — app educativo premiado (Android + Web).
-- **KingFish (PIBIC)** — sistema de gerenciamento e monitoramento (Android + Web).  
-- **Sistema de Gestão de Lanchonete** — Full-Stack com Java GUI + MySQL.
-- **GeniusApp** — app educacional Android com Firebase.  
-- **Android Games Pack** — coleção de jogos desenvolvidos em Android Studio.
-
-### 🖥️ Projetos de Sistemas Operacionais
-- **Escalonador de Tarefas** — simulação de algoritmos de escalonamento (FCFS, SJF, Round Robin, etc.).  
-- **Substituição de Páginas** — implementação de políticas de memória (FIFO, LRU, Ótimo).  
-- **Terminal Simulado** — execução básica de comandos em Java.  
+- **Sistema de Gestão de Lanchonete (2025)** — Aplicação Java GUI + MySQL.  
+- **Programa AI (2023)** — App educacional premiado (Android + Firebase + Web).  
+- **GeniusApp (2022)** — App educacional Android com Firebase.
+- **Android Games Pack (2021 - 2023)** — Coleção de jogos desenvolvidos em Android Studio.  
+- **KingFish (PIBIC 2021–2022)** — Sistema de monitoramento e gerenciamento (Android + Web).  
 
 ---
 
-## 🛠 Tech stack
+## 🖥️ Projetos acadêmicos de Sistemas Operacionais
+- **Escalonador de Tarefas (2025)** — Simulação de algoritmos de escalonamento (FCFS, SJF, Round Robin etc.).  
+- **Substituição de Páginas (2025)** — Implementação de políticas de memória (FIFO, LRU, Ótimo).  
+- **Terminal Simulado (2025)** — Execução básica de comandos em Java.  
+
+---
+
+## 🛠️ Tech Stack
 **Linguagens:** Java • Python • C • C++ • JavaScript • PHP  
+
 **Front-end:** HTML • CSS • React  
+
+**Back-end:** Java (APIs REST) • PHP • Firebase (Autenticação/Realtime DB) • MySQL • MongoDB (noções)  
+
 **Mobile:** Android Studio (Java, XML)  
-**Banco de Dados:** MySQL • Firebase • MongoDB (noções)  
-**Ferramentas:** Git / GitHub • Tinkercad • Arduino • LaTeX
+
+**Ferramentas & Outros:** Git/GitHub • Arduino • Tinkercad • LaTeX  
 
 ---
 
 ## 📫 Contato
-- Email: beatrizchristineab@gmail.com  
-- LinkedIn: [linkedin.com/in/beatriz-christine-51b304269](https://linkedin.com/in/beatriz-christine-51b304269)
+- 📧 Email: **beatrizchristineab@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/beatriz-christine-51b304269](https://linkedin.com/in/beatriz-christine-51b304269)  
+- 📍 Manaus — AM  
