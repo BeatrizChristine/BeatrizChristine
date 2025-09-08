@@ -9,11 +9,16 @@
 ---
 
 ## 🔭 Projetos em destaque
-- **Programa AI** — app educativo premiado (Android + Web).  
+- **Programa AI** — app educativo premiado (Android + Web).
 - **KingFish (PIBIC)** — sistema de gerenciamento e monitoramento (Android + Web).  
-- **Sistema de Gestão de Lanchonete** — Full-Stack com Java GUI + MySQL.  
+- **Sistema de Gestão de Lanchonete** — Full-Stack com Java GUI + MySQL.
 - **GeniusApp** — app educacional Android com Firebase.  
 - **Android Games Pack** — coleção de jogos desenvolvidos em Android Studio.
+
+### 🖥️ Projetos de Sistemas Operacionais
+- **Escalonador de Tarefas** — simulação de algoritmos de escalonamento (FCFS, SJF, Round Robin, etc.).  
+- **Substituição de Páginas** — implementação de políticas de memória (FIFO, LRU, Ótimo).  
+- **Terminal Simulado** — execução básica de comandos em Java.  
 
 ---
 
@@ -28,4 +33,4 @@
 
 ## 📫 Contato
 - Email: beatrizchristineab@gmail.com  
-- LinkedIn: https://linkedin.com/in/beatriz-christine-51b304269
+- LinkedIn: [linkedin.com/in/beatriz-christine-51b304269](https://linkedin.com/in/beatriz-christine-51b304269)
