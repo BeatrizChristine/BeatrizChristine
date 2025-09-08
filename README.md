@@ -4,7 +4,7 @@
 💡 Apaixonada por tecnologia, inovação e desenvolvimento de soluções digitais. Tenho experiência em **projetos Android, Web e sistemas Full-Stack**, além de participação em iniciação científica, extensão e competições de robótica.  
 
 🏆 **Conquistas e destaques:**  
-- 1º lugar — *Melhor Pitch* (Programa AI) — Samsung Ocean (2023)*
+- 1º lugar — *Melhor Pitch* (Programa AI) — Samsung Ocean (2023)
 - Apresentações em eventos acadêmicos e tecnológicos — PIBIC, PIBEX, INOVATECH (2021 - 2023)
 - Líder em projetos de robótica — *First Lego League (2020–2022)*  
 - Algumas palestras e apresentações ministradas em eventos de tecnologia - IFAM (2020 - 2022)
