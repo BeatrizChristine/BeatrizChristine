@@ -25,6 +25,7 @@
 ## 🖥️ Projetos acadêmicos de Sistemas Operacionais
 - **Escalonador de Tarefas (2025)** — Simulação de algoritmos de escalonamento (FCFS, SJF, Round Robin etc.).  
 - **Substituição de Páginas (2025)** — Implementação de políticas de memória (FIFO, LRU, Ótimo).  
+- **Barbeiro Dorminhoco (2025)** — Simulação com threads e semáforos.
 - **Terminal Simulado (2025)** — Execução básica de comandos em Java.  
 
 ---
