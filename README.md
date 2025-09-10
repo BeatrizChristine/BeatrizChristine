@@ -1,4 +1,4 @@
-# Eu sou a Beatriz Christine  
+# Olá! Eu sou Beatriz Christine  
 **Estudante de Engenharia da Computação (UFAM) • Técnica em Programação de Jogos Digitais (IFAM) • Desenvolvedora Full-Stack em formação**
 
 💡 Apaixonada por tecnologia, inovação e desenvolvimento de soluções digitais. Tenho experiência em **projetos Android, Web e sistemas Full-Stack**, além de participação em iniciação científica, extensão e competições de robótica.  
