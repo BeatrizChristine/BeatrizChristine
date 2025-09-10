@@ -1,9 +1,9 @@
-# 👋 Olá! Eu sou a Beatriz Christine  
+# Eu sou a Beatriz Christine  
 **Estudante de Engenharia da Computação (UFAM) • Técnica em Programação de Jogos Digitais (IFAM) • Desenvolvedora Full-Stack em formação**
 
 💡 Apaixonada por tecnologia, inovação e desenvolvimento de soluções digitais. Tenho experiência em **projetos Android, Web e sistemas Full-Stack**, além de participação em iniciação científica, extensão e competições de robótica.  
 
-🏆 **Conquistas e destaques:**  
+**Conquistas e destaques:**  
 - 1º lugar — *Melhor Pitch* (Programa AI) — Samsung Ocean (2023)
 - Apresentações em eventos acadêmicos e tecnológicos — PIBIC, PIBEX, INOVATECH (2021 - 2023)
 - Líder em projetos de robótica — *First Lego League (2020–2022)*  
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Linguagens:** Java • Python • C • C++ • JavaScript • PHP  
 
 **Front-end:** HTML • CSS • React  
