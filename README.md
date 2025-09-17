@@ -19,10 +19,6 @@
 - **GeniusApp (2022)** — App educacional Android com Firebase.
 - **Android Games Pack (2021 - 2023)** — Coleção de jogos desenvolvidos em Android Studio.  
 - **KingFish (PIBIC 2021–2022)** — Sistema de monitoramento e gerenciamento (Android + Web).  
-
----
-
-## 🖥️ Projetos acadêmicos de Sistemas Operacionais
 - **Escalonador de Tarefas (2025)** — Simulação de algoritmos de escalonamento (FCFS, SJF, Round Robin etc.).  
 - **Substituição de Páginas (2025)** — Implementação de políticas de memória (FIFO, LRU, Ótimo).  
 - **Barbeiro Dorminhoco (2025)** — Simulação com threads e semáforos.
@@ -31,15 +27,15 @@
 ---
 
 ## Tech Stack
-**Linguagens:** Java • Python • C • C++ • JavaScript • PHP  
+- **Linguagens:** Java • Python • C • C++ • JavaScript • PHP  
 
-**Front-end:** HTML • CSS • React  
+- **Front-end:** HTML • CSS • React  
 
-**Back-end:** Java (APIs REST) • PHP • Firebase (Autenticação/Realtime DB) • MySQL • MongoDB (noções)  
+- **Back-end:** Java (APIs REST) • PHP • Firebase (Autenticação/Realtime DB) • MySQL • MongoDB (noções)  
 
-**Mobile:** Android Studio (Java, XML)  
+- **Mobile:** Android Studio (Java, XML)  
 
-**Ferramentas & Outros:** Git/GitHub • Arduino • Tinkercad • LaTeX  
+- **Ferramentas & Outros:** Git/GitHub • Arduino • Tinkercad • LaTeX  
 
 ---
 
