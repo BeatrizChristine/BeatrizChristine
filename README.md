@@ -13,7 +13,7 @@
 
 ---
 
-## 🔭 Projetos em destaque
+## Projetos em destaque
 - **Sistema de Gestão de Lanchonete (2025)** — Aplicação Java GUI + MySQL.  
 - **Programa AI (2023)** — App educacional premiado (Android + Firebase + Web).  
 - **GeniusApp (2022)** — App educacional Android com Firebase.
