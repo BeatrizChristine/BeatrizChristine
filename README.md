@@ -9,8 +9,6 @@
 - Líder em projetos de robótica — *First Lego League (2020–2022)*  
 - Algumas palestras e apresentações ministradas em eventos de tecnologia - IFAM (2020 - 2022)
 
-🎯 Atualmente, busco oportunidades de **estágio em Desenvolvimento (Mobile, Web ou Back-End)** para aplicar e expandir minhas habilidades em programação, engenharia de software e resolução de problemas.  
-
 ---
 
 ## Projetos em destaque
