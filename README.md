@@ -31,51 +31,49 @@ Minha trajetória combina **criatividade, desenvolvimento de software e resoluç
 
 ## Projetos em destaque
 
-* **Sistema de Gestão de Lanchonete (2025)**
-  Aplicação desenvolvida em **Java GUI + MySQL**, voltada para gerenciamento de operações e organização de dados.
+* **Sistema de Gestão de Lanchonete (2025)**  
+Aplicação desenvolvida em **Java GUI + MySQL**, voltada para gerenciamento de operações e organização de dados.
 
-* **Programa AI (2023)**
-  Aplicativo educacional premiado, com integração entre **Android, Firebase e Web**, reconhecido com **1º lugar em Melhor Pitch** no Samsung Ocean.
+* **Programa AI (2023)**  
+Aplicativo educacional premiado, com integração entre **Android, Firebase e Web**, reconhecido com **1º lugar em Melhor Pitch** no Samsung Ocean.
 
-* **GeniusApp (2022)**
-  Aplicação educacional Android com uso de **Firebase**, focada em experiência de aprendizado e estruturação de conteúdo.
+* **GeniusApp (2022)**  
+Aplicação educacional Android com uso de **Firebase**, focada em experiência de aprendizado e estruturação de conteúdo.
 
-* **Android Games Pack (2021–2023)**
-  Coleção de jogos produzidos em **Android Studio**, reunindo prática em lógica, interface e desenvolvimento mobile.
+* **Android Games Pack (2021–2023)**  
+Coleção de jogos produzidos em **Android Studio**, reunindo prática em lógica, interface e desenvolvimento mobile.
 
-* **KingFish (PIBIC 2021–2022)**
-  Sistema de monitoramento e gerenciamento com integração entre **Android + Web**, desenvolvido em contexto de iniciação científica.
+* **KingFish (PIBIC 2021–2022)**  
+Sistema de monitoramento e gerenciamento com integração entre **Android + Web**, desenvolvido em contexto de iniciação científica.
 
-* **Escalonador de Tarefas (2025)**
-  Simulação de algoritmos como **FCFS, SJF e Round Robin**, com foco em conceitos de sistemas operacionais.
+* **Escalonador de Tarefas (2025)**  
+Simulação de algoritmos como **FCFS, SJF e Round Robin**, com foco em conceitos de sistemas operacionais.
 
-* **Substituição de Páginas (2025)**
-  Implementação de políticas de memória como **FIFO, LRU e Ótimo**, aplicada ao estudo de gerenciamento de memória.
+* **Substituição de Páginas (2025)**  
+Implementação de políticas de memória como **FIFO, LRU e Ótimo**, aplicada ao estudo de gerenciamento de memória.
 
-* **Barbeiro Dorminhoco (2025)**
-  Projeto de concorrência com uso de **threads e semáforos**, voltado para sincronização de processos.
+* **Barbeiro Dorminhoco (2025)**  
+Projeto de concorrência com uso de **threads e semáforos**, voltado para sincronização de processos.
 
-* **Terminal Simulado (2025)**
-  Simulação básica de terminal em **Java**, explorando execução de comandos e estrutura de interface.
+* **Terminal Simulado (2025)**  
+Simulação básica de terminal em **Java**, explorando execução de comandos e estrutura de interface.
+
+---
 
 ## Tech Stack
 
 <div align="center">
 
 ### Linguagens
-
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
 
 ### Front-end
-
 <img src="https://skillicons.dev/icons?i=html,css" />
 
 ### Back-end e Banco de Dados
-
 <img src="https://skillicons.dev/icons?i=firebase,mysql" />
 
 ### Mobile e Ferramentas
-
 <img src="https://skillicons.dev/icons?i=androidstudio,git,github,arduino,latex" />
 
 </div>
@@ -134,10 +132,18 @@ Busco crescer como desenvolvedora, ampliando minha atuação em projetos que una
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Gmail-beatrizchristineab%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+<br> 
+
+<a href="mailto:beatrizchristineab@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-beatrizchristineab%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br>
+<br>
 
 <a href="https://linkedin.com/in/beatriz-christine-51b304269">
   <img src="https://img.shields.io/badge/LinkedIn-Beatriz%20Christine-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<br>
 
 </div>
