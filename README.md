@@ -80,43 +80,11 @@ Simulação básica de terminal em **Java**, explorando execução de comandos e
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=BeatrizChristine&show_icons=true&bg_color=00000000&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=BeatrizChristine&show_icons=true&bg_color=f8fafc&hide_border=true&title_color=2563EB&text_color=475569&icon_color=2563EB"
-    media="(prefers-color-scheme: light)"
-  />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BeatrizChristine&show_icons=true&hide_border=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizChristine&layout=compact&bg_color=00000000&hide_border=true&title_color=58A6FF&text_color=C9D1D9"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizChristine&layout=compact&bg_color=f8fafc&hide_border=true&title_color=2563EB&text_color=475569"
-    media="(prefers-color-scheme: light)"
-  />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizChristine&layout=compact&hide_border=true" />
-</picture>
-
-</div>
-
----
-
 ## Áreas de interesse
 
 <div align="center">
 
-`Desenvolvimento Full-Stack` • `Android` • `Sistemas Acadêmicos` • `Banco de Dados` • `Robótica` • `Educação e Tecnologia` • `Resolução de Problemas` • `Web` • `FrontEnd`
+`Desenvolvimento Android` • `Desenvolvimento Web` • `Sistemas` • `Banco de Dados` • `Educação e Tecnologia` • `Resolução de Problemas` • `FrontEnd` • `BackEnd`
 
 </div>
 
