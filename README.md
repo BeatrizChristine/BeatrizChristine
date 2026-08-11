@@ -32,22 +32,28 @@ Minha trajetória combina **criatividade, desenvolvimento de software e resoluç
 ## Projetos em destaque
 
 * **KingFish (PIBIC 2021–2022)**
-  Aplicação mobile desenvolvida durante projeto de **Iniciação Científica (PIBIC)** utilizando **Android Studio, Java e XML**, voltada ao monitoramento e gerenciamento de informações diretamente em ambiente Android.
+  Aplicação mobile desenvolvida durante projeto de **Iniciação Científica (PIBIC)**, utilizando **Android Studio, Java e XML**. O projeto foi voltado ao desenvolvimento de uma solução de monitoramento e gerenciamento diretamente em ambiente Android.
 
 * **Android Games Pack (2021–2023)**
-  Coletânea de jogos desenvolvidos no **Android Studio** com **Java e XML** para apresentações de **Projetos de Conclusão de Curso Técnico**, explorando também integração e armazenamento de dados com **Firebase e SQL**.
+  Coletânea de jogos desenvolvidos no **Android Studio** com **Java e XML**, utilizados em apresentações de **Projetos de Conclusão de Curso Técnico**. Os projetos também exploraram integração e armazenamento de dados com **Firebase e SQL**.
 
 * **GeniusApp (2022)**
-  Aplicação educacional desenvolvida como meu **Projeto de Conclusão de Curso Técnico**, utilizando **Java, XML e Firebase**. O projeto foi voltado ao ensino e à aprendizagem de **Matemática** por meio de uma experiência mobile interativa.
+  Aplicação educacional desenvolvida como meu **Projeto de Conclusão de Curso Técnico**, utilizando **Android Studio, Java, XML e Firebase**. O projeto foi voltado ao ensino e à aprendizagem de **Matemática**, oferecendo uma experiência educacional por meio de uma aplicação mobile.
 
 * **Programa AI (2023)**
-  Aplicação educacional desenvolvida para apresentação no **INOVATECH da Faculdade FAMETRO**, utilizando **Android Studio, Java, XML e Firebase**, com foco no aprendizado de conceitos relacionados à **programação**.
+  Aplicação educacional desenvolvida para apresentação no **INOVATECH da Faculdade FAMETRO**, utilizando **Android Studio, Java, XML e Firebase**. O projeto teve como objetivo auxiliar no aprendizado de conceitos relacionados à **programação** por meio de uma experiência interativa em ambiente mobile.
 
 * **Sistema de Gestão de Lanchonete (2025)**
   Aplicação desenvolvida em **Java GUI + MySQL**, voltada para gerenciamento de operações e organização de dados.
 
-* **Intranet IDAM (2026)**
-  Sistema web interno desenvolvido para o **Instituto de Desenvolvimento Agropecuário e Florestal Sustentável do Estado do Amazonas (IDAM)**, voltado à centralização de informações, recursos e serviços institucionais. Desenvolvido com **Next.js, React, TypeScript e Tailwind CSS**, conta com interface responsiva, navegação pelo **App Router**, calendário institucional e páginas destinadas à organização e disponibilização de conteúdos internos.
+* **Portfólio Web (2026)**
+  Site pessoal desenvolvido com **HTML5, CSS3 e JavaScript** para apresentar minha trajetória acadêmica e profissional na área de tecnologia. O projeto reúne informações sobre **formação, habilidades, projetos desenvolvidos, certificados e experiências**, além de disponibilizar currículo para download e canais de contato profissional. A aplicação foi construída com foco em **responsividade, organização visual e experiência de navegação**.
+
+* **Intranet IDAM (2025–atual)**
+  Sistema web interno desenvolvido para o **Instituto de Desenvolvimento Agropecuário e Florestal Sustentável do Estado do Amazonas (IDAM)**, voltado à centralização de informações, recursos e serviços institucionais. Desenvolvido com **Next.js, React, TypeScript e Tailwind CSS**, conta com interface moderna e responsiva, navegação pelo **App Router**, calendário institucional e páginas destinadas à organização e disponibilização de conteúdos internos.
+
+* **SICPR — Sistema de Controle de Processos (2026–atual)**
+  Projeto **Full-Stack de grande escala** desenvolvido para gerenciamento e acompanhamento de processos relacionados à **Carteira do Produtor Rural**, envolvendo diferentes setores, usuários e etapas de tramitação. O sistema possui fluxos de criação, encaminhamento, análise, aprovação e lançamento de processos, além de gerenciamento de documentos, memorandos, histórico de movimentações e controle de acesso. Desenvolvido com **Next.js, React, TypeScript e Tailwind CSS** no frontend e **Java 17, Spring Boot, Spring Security, PostgreSQL e autenticação JWT** no backend, o projeto integra interface, API, banco de dados, regras de negócio e segurança.
 
 ---
 
