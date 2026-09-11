@@ -49,7 +49,7 @@ Minha trajetória combina **criatividade, desenvolvimento de software e resoluç
 * **Portfólio Web (2026)**
   Site pessoal desenvolvido com **HTML5, CSS3 e JavaScript** para apresentar minha trajetória acadêmica e profissional na área de tecnologia. O projeto reúne informações sobre **formação, habilidades, projetos desenvolvidos, certificados e experiências**, além de disponibilizar currículo para download e canais de contato profissional. A aplicação foi construída com foco em **responsividade, organização visual e experiência de navegação**.
 
-* **Intranet IDAM (2025–atual)**
+* **Intranet IDAM (2026–atual)**
   Sistema web interno desenvolvido para o **Instituto de Desenvolvimento Agropecuário e Florestal Sustentável do Estado do Amazonas (IDAM)**, voltado à centralização de informações, recursos e serviços institucionais. Desenvolvido com **Next.js, React, TypeScript e Tailwind CSS**, conta com interface moderna e responsiva, navegação pelo **App Router**, calendário institucional e páginas destinadas à organização e disponibilização de conteúdos internos.
 
 * **SICPR — Sistema de Controle de Processos (2026–atual)**
