@@ -55,6 +55,9 @@ Minha trajetória combina **criatividade, desenvolvimento de software e resoluç
 * **SICPR — Sistema de Controle de Processos (2026–atual)**
   Projeto **Full-Stack de grande escala** desenvolvido para gerenciamento e acompanhamento de processos relacionados à **Carteira do Produtor Rural**, envolvendo diferentes setores, usuários e etapas de tramitação. O sistema possui fluxos de criação, encaminhamento, análise, aprovação e lançamento de processos, além de gerenciamento de documentos, memorandos, histórico de movimentações e controle de acesso. Desenvolvido com **Next.js, React, TypeScript e Tailwind CSS** no frontend e **Java 17, Spring Boot, Spring Security, PostgreSQL e autenticação JWT** no backend, o projeto integra interface, API, banco de dados, regras de negócio e segurança.
 
+* **Central de Avisos IDAM (2026–atual)**
+  Aplicação desktop administrativa desenvolvida para gerenciar a comunicação interna da **Intranet IDAM**. Construída com **Java 17 e JavaFX**, permite publicar e administrar avisos e popups, organizar mensagens do dia, consultar o histórico com filtros e reabertura de comunicados, visualizar imagens e anexos e acompanhar acessos em tempo real. O projeto possui integração com a **API da Intranet**, carregamento assíncrono de dados e interface focada em desempenho, organização e experiência do usuário.
+
 ---
 
 ## Tech Stack
